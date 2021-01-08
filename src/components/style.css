@@ -1,0 +1,59 @@
+.jumbotron {
+    background-image: url("../assets/norsk.JPG");
+    background-size: 100% 100%;
+    height: auto;
+    margin-bottom: 0rem;
+    }
+.container {
+    padding-bottom: 50px;
+}
+.lead {
+    color: aliceblue;
+}
+.project {
+    text-align: center;
+}
+.resHead {
+    padding-top: 10px;
+    text-align: center;
+}
+.external {
+    color: blue;
+}
+
+.header2{
+    max-height: 250px;
+}
+
+.header1 {
+    text-align: left;
+}
+/*this is to set the max height for the images in the carousel*/
+img.img-fluid {
+    max-height: 550px;
+}
+/*this is to change the arrows in the carousel from white to black*/
+.carousel-control-next, .carousel-control-prev {
+filter: invert(100%);
+}
+.carousel-caption {
+    color: black
+}
+.navbar {
+    background-color: black;
+}
+.nav-link {
+    color: white;
+}
+a:link {
+    color:red;
+}
+a:hover {
+    color: red;
+}
+a:visited{
+    color: red;
+}
+.btn-danger {
+    background-color: red;
+}
