@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-profile/static/css/main.8ecbd730.chunk.css",
+    "main.js": "/React-profile/static/js/main.935c2f63.chunk.js",
+    "main.js.map": "/React-profile/static/js/main.935c2f63.chunk.js.map",
+    "runtime-main.js": "/React-profile/static/js/runtime-main.a5535c4c.js",
+    "runtime-main.js.map": "/React-profile/static/js/runtime-main.a5535c4c.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/React-profile/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.6d700a77.chunk.js": "/React-profile/static/js/2.6d700a77.chunk.js",
+    "static/js/2.6d700a77.chunk.js.map": "/React-profile/static/js/2.6d700a77.chunk.js.map",
+    "index.html": "/React-profile/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/React-profile/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.8ecbd730.chunk.css.map": "/React-profile/static/css/main.8ecbd730.chunk.css.map",
+    "static/js/2.6d700a77.chunk.js.LICENSE.txt": "/React-profile/static/js/2.6d700a77.chunk.js.LICENSE.txt",
+    "static/media/aliens.de7367f5.JPG": "/React-profile/static/media/aliens.de7367f5.JPG",
+    "static/media/style.css": "/React-profile/static/media/norsk.58ae9f48.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5535c4c.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.6d700a77.chunk.js",
+    "static/css/main.8ecbd730.chunk.css",
+    "static/js/main.935c2f63.chunk.js"
+  ]
+}
